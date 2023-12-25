@@ -1,0 +1,17 @@
+C:\LoyaltyDev\src\loyaltyDev\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\LoyaltyDev\src\loyaltyDev\Domain\bin\Debug\net7.0\Domain.dll
+C:\LoyaltyDev\src\loyaltyDev\Domain\bin\Debug\net7.0\Domain.pdb
+C:\LoyaltyDev\src\loyaltyDev\Domain\bin\Debug\net7.0\Core.Persistence.dll
+C:\LoyaltyDev\src\loyaltyDev\Domain\bin\Debug\net7.0\Core.Security.dll
+C:\LoyaltyDev\src\loyaltyDev\Domain\bin\Debug\net7.0\Core.Persistence.pdb
+C:\LoyaltyDev\src\loyaltyDev\Domain\bin\Debug\net7.0\Core.Security.pdb
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.dll
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\Domain.pdb
+C:\LoyaltyDev\src\loyaltyDev\Domain\obj\Debug\net7.0\ref\Domain.dll
